@@ -8,9 +8,9 @@ Gem::Specification.new do |spec|
   spec.authors       = ["Shane Becker"]
   spec.email         = ["veganstraightedge@gmail.com"]
 
-  spec.summary       = %q{Client library for the Ethio API}
-  spec.description   = %q{Client library for the Ethio API}
-  spec.homepage      = "https://ethio.app"
+  spec.summary       = %q{Client library for the Eefio API}
+  spec.description   = %q{Client library for the Eefio API}
+  spec.homepage      = "https://eefio.com"
   spec.license       = "CC0"
 
   # Specify which files should be added to the gem when it is released.

@@ -1,15 +1,15 @@
-# Ethio
+# Eefio
 
-Client library for the Ethio API.
+Client library for the Eefio API.
 
-https://api.ethio.app
+https://api.eefio.app
 
 ## Installation
 
 Add this line to your application's Gemfile:
 
 ```ruby
-gem 'ethio'
+gem 'eefio'
 ```
 
 And then execute:
@@ -18,7 +18,7 @@ And then execute:
 
 Or install it yourself as:
 
-    $ gem install ethio
+    $ gem install eefio
 
 ## Usage
 
@@ -32,7 +32,7 @@ To install this gem onto your local machine, run `bundle exec rake install`. To 
 
 ## Contributing
 
-Bug reports and pull requests are welcome on GitHub at https://github.com/veganstraightedge/ethio. This project is intended to be a safe, welcoming space for collaboration, and contributors are expected to adhere to the [Contributor Covenant](http://contributor-covenant.org) code of conduct.
+Bug reports and pull requests are welcome on GitHub at https://github.com/eefio/eefio-client-ruby. This project is intended to be a safe, welcoming space for collaboration, and contributors are expected to adhere to the [Contributor Covenant](http://contributor-covenant.org) code of conduct.
 
 ## License
 
@@ -40,4 +40,4 @@ CC0.
 
 ## Code of Conduct
 
-Everyone interacting in the Ethio project’s codebases, issue trackers, chat rooms and mailing lists is expected to follow the [code of conduct](https://github.com/veganstraightedge/ethio/blob/master/CODE_OF_CONDUCT.md).
+Everyone interacting in the Eefio project’s codebases, issue trackers, chat rooms and mailing lists is expected to follow the [code of conduct](https://github.com/eefio/eefio-client-ruby/blob/master/CODE_OF_CONDUCT.md).

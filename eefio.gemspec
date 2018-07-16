@@ -1,10 +1,10 @@
 lib = File.expand_path("../lib", __FILE__)
 $LOAD_PATH.unshift(lib) unless $LOAD_PATH.include?(lib)
-require "ethio/version"
+require "eefio/version"
 
 Gem::Specification.new do |spec|
-  spec.name          = "ethio"
-  spec.version       = Ethio::VERSION
+  spec.name          = "eefio"
+  spec.version       = Eefio::VERSION
   spec.authors       = ["Shane Becker"]
   spec.email         = ["veganstraightedge@gmail.com"]
 

@@ -1,5 +1,5 @@
 require "bundler/setup"
-require "ethio"
+require "eefio"
 
 RSpec.configure do |config|
   # Enable flags like --only-failures and --next-failure

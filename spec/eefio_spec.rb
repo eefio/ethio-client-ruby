@@ -1,6 +1,6 @@
-RSpec.describe Ethio do
+RSpec.describe Eefio do
   it "has a version number" do
-    expect(Ethio::VERSION).not_to be nil
+    expect(Eefio::VERSION).not_to be nil
   end
 
   it "does something useful" do
